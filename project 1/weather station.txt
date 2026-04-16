@@ -1,0 +1,77 @@
+Weather Station Using Arduino
+Monitor Temperature, Humidity, and
+Pressure Using an Arduino Uno with
+Sensors and Display Real-Time
+Weather Data on a Simulated LCD
+Screen
+Introduction
+1. Overview of Weather Station
+2. Importance of environmental monitoring
+3. Use of Arduino for real-time data collection
+Objective
+• Monitor temperature, humidity, and pressure
+• Use Arduino Uno with sensors
+• Display real-time weather data on an LCD
+Components Required
+• Arduino Uno
+• DHT11/DHT22 sensor (Temp & Humidity)
+• BMP180/BME280 (Pressure)
+• 16x2 LCD or I2C LCD module
+• Breadboard and Jumper Wires
+• Power supply (USB or Battery)
+Arduino Uno Overview
+• Open-source microcontroller board
+• Based on ATmega328P
+• 14 digital I/O pins, 6 analog inputs
+• USB interface and power jack
+Sensors Overview
+• DHT11/DHT22: Measures temperature and
+humidity
+• BMP180/BME280: Measures atmospheric
+pressure
+• I2C communication interface for sensor
+modules
+LCD Display Overview
+• 16x2 LCD: 2 lines, 16 characters each
+• Can be connected directly or via I2C module
+• Used to display sensor data
+Circuit Diagram
+• Connect sensors to Arduino pins
+• Use breadboard to organize connections
+• Connect LCD to Arduino using I2C for
+simplicity
+• Ensure proper power and ground connections
+Working Principle
+• Sensors collect environmental data
+• Arduino reads sensor values periodically
+• Data is processed and displayed on LCD
+Arduino Code Overview
+• Include necessary libraries
+• Initialize sensors and LCD
+• Read data from sensors in loop()
+• Display data on LCD
+Sample Code Snippet
+• #include <DHT.h>
+• #include <Wire.h>
+• #include <LiquidCrystal_I2C.h>
+• Read DHT11 and BMP180 data
+• Display data using lcd.print()
+Simulation (Optional)
+• Use Tinkercad or Proteus for virtual simulation
+• Test sensor readings and display output
+• Debug before hardware implementation
+Applications
+1. Home weather monitoring
+2. Agriculture and greenhouse systems
+3. Educational projects
+4. Smart environment systems
+Advantages and Limitations
+• Advantages: Low-cost, real-time monitoring
+• Limitations: Sensor accuracy, weatherproofing
+• Limited range of wireless monitoring
+Conclusion
+• Arduino-based weather station is a practical
+IoT project
+• Easy to build and understand
+• Enhances knowledge of sensors and
+microcontrollers
