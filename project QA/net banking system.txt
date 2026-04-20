@@ -1,0 +1,131 @@
+Project Title
+
+Net Banking System using JIRA Tool
+
+Presented by: (Rasmi S)
+
+Department: (Computer Science and Engineering )
+
+College:JJ collage of EWngineering and Technology,Trichy
+
+Date:20.4.26
+
+  Introduction
+
+Net Banking allows users to perform banking transactions online
+
+Available 24/7 using internet
+
+Reduces need to visit bank physically
+
+Widely used in modern banking systems
+
+
+  Objectives
+
+Develop a secure online banking system
+
+Provide easy and fast transactions
+
+Ensure data privacy and security
+
+Use JIRA for project management
+
+
+  What is JIRA?
+
+JIRA is a project management tool
+
+Developed by Atlassian
+
+Used for:
+
+Bug tracking
+
+Task management 
+
+Agile development 
+
+
+  Why Use JIRA?
+
+Tracks project progress
+
+Helps manage tasks efficiently
+
+Supports teamwork and collaboration
+
+Useful for sprint planning
+
+
+  System Modules
+
+User Login (Authentication)
+
+Account Summary
+
+Fund Transfer
+
+Bill Payment
+
+Transaction History
+
+
+
+  JIRA Workflow
+
+Create User Stories
+
+Add tasks to backlog
+
+Sprint planning
+
+Assign tasks to team
+
+Track progress (To Do → In Progress → Done)
+
+
+  Real-Time Example
+
+Fund Transfer Process:
+
+User logs into net banking
+
+Selects “Fund Transfer”
+
+Enters account details
+
+Transaction is processed
+
+Balance updated in database
+
+
+  JIRA Usage:
+
+Feature “Fund Transfer” tracked as task
+
+Bugs (transaction errors) reported
+
+Work completed in sprint cycle
+
+
+   Advantages
+
+Saves time and effort
+
+Secure transactions
+
+Easy access anywhere
+
+Efficient project tracking using JIRA
+
+ 
+   Conclusion
+
+Net Banking is essential in digital banking
+
+Provides fast and secure services
+
+JIRA improves development process
+
+Ensures better project delivery.
